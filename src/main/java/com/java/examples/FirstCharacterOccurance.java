@@ -8,7 +8,8 @@ import java.util.Hashtable;
  * Input : "ABCDEA" --> output "A"
  * Input : "ABCDBA" --> output "B"
  * Input : "ABCABEA" --> output "A"
- * Input : "ABC" --> output Null
+ * Input : "ABC" --> output EMPTY STRING ("")
+ * Input : "A" --> output EMPTY STRING ("")
  */
 import java.util.Map;
 
