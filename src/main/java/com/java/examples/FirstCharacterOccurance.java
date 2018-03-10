@@ -1,6 +1,5 @@
 package com.java.examples;
 
-import java.util.Hashtable;
 /*
  * Question: Find the first recurring character from a given String
  * 
@@ -11,6 +10,7 @@ import java.util.Hashtable;
  * Input : "ABC" --> output EMPTY STRING ("")
  * Input : "A" --> output EMPTY STRING ("")
  */
+import java.util.Hashtable;
 import java.util.Map;
 
 public class FirstCharacterOccurance {
